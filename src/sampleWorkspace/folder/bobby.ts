@@ -1,0 +1,1 @@
+export const bobby = async (event: any) => {};
